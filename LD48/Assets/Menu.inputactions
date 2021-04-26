@@ -1,0 +1,33 @@
+{
+    "name": "Menu",
+    "maps": [
+        {
+            "name": "Menu",
+            "id": "e71bf4a6-80d5-46ea-ad9d-64bdae437d29",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "711cf738-267c-4404-9b7f-dce0662ff634",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6d070562-7088-4e63-8e4c-1936080eceaa",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
